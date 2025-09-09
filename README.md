@@ -1,2 +1,2 @@
 # desafio3
-Terceiro desafio do curso "Suzano - Python Developer #2" da plataforma DIO, realizado em ago/set 2025
+Terceiro desafio do curso "Suzano - Python Developer #2" da plataforma DIO, realizado em ago/set 2025 Código usado seguindo a estrutura básica fornecida no curso com algumas alterações. O objetivo era a criação de um sistema simples de operações bancárias, ou de um caixa eletrônico, utilizando classes e herança, POO, e com funções de saque, depósito, extrato e etc...
